@@ -9,9 +9,4 @@ web hooks call jenkins
 # mahalogin
 # mahalogin
 
-test
-
-one
-two
-
-test1
+1st
